@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EOyVapZ08N+W24oTN6tWDK6ZyWnzLt9U3XeFh8NYNvyroVW6+3kGnCsFvYMmm2stEPm3hkwP5TMYbIdnpjJ4vg==",
+  "dgSpecHash": "o/M9qMaGOdQOYDJyxkAvXsGsTNG+tYtinL7pcFhVynwyHWYlOI9jZ8rpKmCkHyrhupoZwCPQwhbJEkA4u9mNwA==",
   "success": true,
-  "projectFilePath": "D:\\InterviewProject\\InterviewProject\\InterviewProject.csproj",
+  "projectFilePath": "D:\\TestProj\\InterviewProject\\InterviewProject\\InterviewProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kateryna.shtets\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\kateryna.shtets\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

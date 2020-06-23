@@ -5324,11 +5324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InterviewProject\\InterviewProject\\InterviewProject.csproj",
+      "projectUniqueName": "D:\\TestProj\\InterviewProject\\InterviewProject\\InterviewProject.csproj",
       "projectName": "InterviewProject",
-      "projectPath": "D:\\InterviewProject\\InterviewProject\\InterviewProject.csproj",
+      "projectPath": "D:\\TestProj\\InterviewProject\\InterviewProject\\InterviewProject.csproj",
       "packagesPath": "C:\\Users\\kateryna.shtets\\.nuget\\packages\\",
-      "outputPath": "D:\\InterviewProject\\InterviewProject\\obj\\",
+      "outputPath": "D:\\TestProj\\InterviewProject\\InterviewProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

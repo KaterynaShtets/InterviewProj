@@ -43,7 +43,7 @@ namespace InterviewProject.Controllers
             return await repository.Add(entity);
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<ActionResult<TEntity>> Delete(int id)
         {
             return await repository.Delete(id);

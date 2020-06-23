@@ -130,6 +130,27 @@
 				"description": "Get One By Id"
 			},
 			"response": []
+		},
+		{
+			"name": "https://localhost:44380/api/interview/2",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44380/api/interview/2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44380",
+					"path": [
+						"api",
+						"interview",
+						"2"
+					]
+				}
+			},
+			"response": []
 		}
 	],
 	"protocolProfileBehavior": {}
