@@ -3,15 +3,17 @@ using System;
 using InterviewProject.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace InterviewProject.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    partial class ApplicationContextModelSnapshot : ModelSnapshot
+    [Migration("20200623135122_UpdateFields")]
+    partial class UpdateFields
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -44,17 +46,6 @@ namespace InterviewProject.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Interviews");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            DateTime = new DateTime(2020, 6, 25, 16, 0, 0, 0, DateTimeKind.Unspecified),
-                            GradeId = 1,
-                            PositionId = 1,
-                            RoomId = 1,
-                            TechnologyId = 1
-                        });
                 });
 
             modelBuilder.Entity("InterviewProject.Models.InterviewUser", b =>

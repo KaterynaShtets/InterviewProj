@@ -25,6 +25,17 @@ namespace InterviewProject
         {
             services.AddDbContext<ApplicationContext>(options =>
             options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+            //string assemblyName = typeof(ApplicationContext).Namespace;
+            //var dbContextBuilder = new DbContextOptionsBuilder<ApplicationContext>();
+            //dbContextBuilder.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"), o => o.MigrationsAssembly(assemblyName));
+
+            //return new KuchidDbContext(dbContextBuilder.Options);
+            // services.AddDbContext<ApplicationContext>(options =>
+            //     options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"),
+            //         optionsBuilder =>
+            //             optionsBuilder.MigrationsAssembly(assemblyName)
+            //     )
+            //);
             services.AddControllers();
             services.AddScoped<InterviewRepository>();
             services.AddScoped<IInterviewService, InterviewService>();

@@ -28,6 +28,10 @@ namespace InterviewProject.Data
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
+            builder.Entity<Interview>()
+            .HasData(
+            new Interview { Id = 1, DateTime = new DateTime(2020, 6, 25, 16, 00, 0), GradeId = 1, PositionId = 1, RoomId = 1, TechnologyId = 1 });
+
         }
     }
 }
