@@ -1,0 +1,12 @@
+D:\TestProj\InterviewProject\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\TestProj\InterviewProject\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\TestProj\InterviewProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\TestProj\InterviewProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\TestProj\InterviewProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\TestProj\InterviewProject\DataAccessLayer\bin\Debug\netcoreapp3.1\CoreModel.dll
+D:\TestProj\InterviewProject\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\TestProj\InterviewProject\DataAccessLayer\bin\Debug\netcoreapp3.1\CoreModel.pdb
+D:\TestProj\InterviewProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\TestProj\InterviewProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+D:\TestProj\InterviewProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\TestProj\InterviewProject\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb

@@ -1,0 +1,14 @@
+D:\TestProj\InterviewProject\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+D:\TestProj\InterviewProject\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\TestProj\InterviewProject\BusinessLogic\bin\Debug\netcoreapp3.1\CoreModel.dll
+D:\TestProj\InterviewProject\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\TestProj\InterviewProject\BusinessLogic\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\TestProj\InterviewProject\BusinessLogic\bin\Debug\netcoreapp3.1\CoreModel.pdb
+D:\TestProj\InterviewProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+D:\TestProj\InterviewProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+D:\TestProj\InterviewProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+D:\TestProj\InterviewProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+D:\TestProj\InterviewProject\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+D:\TestProj\InterviewProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\TestProj\InterviewProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\TestProj\InterviewProject\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

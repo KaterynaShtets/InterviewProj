@@ -86,3 +86,12 @@ D:\TestProj\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\staticweba
 D:\TestProj\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.dll
 D:\TestProj\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.pdb
 D:\TestProj\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.genruntimeconfig.cache
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\CoreModel.dll
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\CoreModel.pdb
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\BusinessLogic.pdb

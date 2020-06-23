@@ -1,0 +1,9 @@
+D:\TestProj\InterviewProject\CoreModel\bin\Debug\netcoreapp3.1\CoreModel.deps.json
+D:\TestProj\InterviewProject\CoreModel\bin\Debug\netcoreapp3.1\CoreModel.dll
+D:\TestProj\InterviewProject\CoreModel\bin\Debug\netcoreapp3.1\CoreModel.pdb
+D:\TestProj\InterviewProject\CoreModel\obj\Debug\netcoreapp3.1\CoreModel.csprojAssemblyReference.cache
+D:\TestProj\InterviewProject\CoreModel\obj\Debug\netcoreapp3.1\CoreModel.AssemblyInfoInputs.cache
+D:\TestProj\InterviewProject\CoreModel\obj\Debug\netcoreapp3.1\CoreModel.AssemblyInfo.cs
+D:\TestProj\InterviewProject\CoreModel\obj\Debug\netcoreapp3.1\CoreModel.csproj.CoreCompileInputs.cache
+D:\TestProj\InterviewProject\CoreModel\obj\Debug\netcoreapp3.1\CoreModel.dll
+D:\TestProj\InterviewProject\CoreModel\obj\Debug\netcoreapp3.1\CoreModel.pdb
