@@ -1,6 +1,7 @@
 ﻿using BusinessLogic.Interfaces;
 using BusinessLogic.Services;
 using InterviewProject.Data;
+using InterviewProject.Middleware;
 using InterviewProject.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -25,17 +26,7 @@ namespace InterviewProject
         {
             services.AddDbContext<ApplicationContext>(options =>
             options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
-            //string assemblyName = typeof(ApplicationContext).Namespace;
-            //var dbContextBuilder = new DbContextOptionsBuilder<ApplicationContext>();
-            //dbContextBuilder.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"), o => o.MigrationsAssembly(assemblyName));
-
-            //return new KuchidDbContext(dbContextBuilder.Options);
-            // services.AddDbContext<ApplicationContext>(options =>
-            //     options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"),
-            //         optionsBuilder =>
-            //             optionsBuilder.MigrationsAssembly(assemblyName)
-            //     )
-            //);
+         
             services.AddControllers();
             services.AddScoped<InterviewRepository>();
             services.AddScoped<IInterviewService, InterviewService>();
@@ -48,9 +39,10 @@ namespace InterviewProject
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            
             app.UseHttpsRedirection();
-
+            //our 
+            app.UseRequestHandler();
             app.UseRouting();
 
             app.UseAuthorization();
