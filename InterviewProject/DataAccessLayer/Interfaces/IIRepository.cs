@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace InterviewProject.Interfaces
+namespace DataAccessLayer.Interfaces
 {
     // an abstraction layer over different ORMs
     public interface IRepository<T> 

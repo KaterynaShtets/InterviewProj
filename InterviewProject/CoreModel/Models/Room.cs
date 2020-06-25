@@ -1,10 +1,6 @@
-﻿using InterviewProject.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using CoreModel.Interfaces;
 
-namespace InterviewProject.Models
+namespace CoreModel.Models
 {
     public class Room : IEntity
     {
@@ -12,6 +8,5 @@ namespace InterviewProject.Models
         public int Capacity { get; set; }
         public string Name { get; set; }
         public int Floor { get; set; }
-       // public List<Interview> Interviews { get; set; }
     }
 }

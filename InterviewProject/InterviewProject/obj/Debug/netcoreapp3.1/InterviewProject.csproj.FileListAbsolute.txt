@@ -95,3 +95,5 @@ D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\Microsoft.
 D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\BusinessLogic.dll
 D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\TestProj\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json

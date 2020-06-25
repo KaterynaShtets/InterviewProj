@@ -1,11 +1,9 @@
-﻿using InterviewProject.Models;
+﻿
 using Microsoft.EntityFrameworkCore;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using CoreModel.Models;
 
-namespace InterviewProject.Data
+namespace DataAccessLayer.Data
 {
     public class ApplicationContext : DbContext
     {
@@ -20,11 +18,7 @@ namespace InterviewProject.Data
 
     
         public ApplicationContext(DbContextOptions<ApplicationContext> options)
-            : base(options)
-        {
-           // Database.EnsureCreated();
-        }
-
+            : base(options) { }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

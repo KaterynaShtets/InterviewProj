@@ -1,10 +1,7 @@
-﻿using InterviewProject.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System;
+using CoreModel.Interfaces;
 
-namespace InterviewProject.Models
+namespace CoreModel.Models
 {
     public class User : IEntity
     {
@@ -12,7 +9,5 @@ namespace InterviewProject.Models
         public string Name { get; set; }
         public DateTime DateOfBirthday { get; set; }
         public string Email { get; set; }
-      //  public List<UserRole> UserRoles { get; set; }
-      //  public List<InterviewUser> InterviewUser { get; set; }
     }
 }

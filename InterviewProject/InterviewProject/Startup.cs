@@ -1,8 +1,8 @@
 ﻿using BusinessLogic.Interfaces;
 using BusinessLogic.Services;
-using InterviewProject.Data;
+using DataAccessLayer.Data;
+using DataAccessLayer.Repositories;
 using InterviewProject.Middleware;
-using InterviewProject.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -47,7 +47,6 @@ namespace InterviewProject
 
             app.UseAuthorization();
 
-            //подключить маршрутизацию контроллеров на основе атрибутов
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

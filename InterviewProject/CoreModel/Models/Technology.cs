@@ -1,15 +1,10 @@
-﻿using InterviewProject.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using CoreModel.Interfaces;
 
-namespace InterviewProject.Models
+namespace CoreModel.Models
 {
     public class Technology : IEntity
     {
         public int Id { get; set; }
         public string TechnologyTitle { get; set; }
-       // public List<Interview> Interviews { get; set; }
     }
 }

@@ -1,12 +1,8 @@
-﻿using InterviewProject.Data;
-using InterviewProject.EFCore;
-using InterviewProject.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using CoreModel.Models;
+using DataAccessLayer.Data;
+using DataAccessLayer.EFCore;
 
-namespace InterviewProject.Repositories
+namespace DataAccessLayer.Repositories
 {
     public class UserRoleRepository : Repository<UserRole, ApplicationContext>
     {
